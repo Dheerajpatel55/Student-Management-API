@@ -50,9 +50,10 @@ It uses **Spring Data JPA** (Hibernate) for database operations, **MySQL** for d
 
 ## **Technologies Used**
 
-- Java 17  
-- Spring Boot 3.x  
-- Spring Data JPA (Hibernate)  
+- Java 21  
+- Spring Boot 3.3
+- Spring Data JPA (Hibernate)
+- Spring MVC
 - MySQL 8  
 - Maven  
 - VS Code / IntelliJ IDEA  
