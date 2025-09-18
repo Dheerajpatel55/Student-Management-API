@@ -1,0 +1,29 @@
+POST http://localhost:9090/students
+Content-Type: application/json
+
+{
+    "name":"dheeraj",
+    "email": "dheeraj@gmail.com",
+    "age": 25
+}
+
+### Get student by ID
+GET http://localhost:9090/students/
+Accept: application/json
+
+
+###
+POST  http://localhost:9090/students
+Content-Type: application/json
+
+{
+    "name": "keiron",
+    "email":"keiron@gmail.com",
+    "age":21
+}
+
+###
+DELETE  http://localhost:9090/7
+Accept: application/json
+
+
