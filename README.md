@@ -96,10 +96,10 @@ Add logging and monitoring for production readiness
 
 ## Author
 
-```text
 Dheerajpatel55
 GitHub: https://github.com/Dheerajpatel55
 
+```text
 git clone https://github.com/Dheerajpatel55/Student-Management-API.git
 cd Student-Management-API
 
