@@ -75,8 +75,6 @@ It uses **Spring Data JPA** (Hibernate) for database operations, **MySQL** for d
 | age    | INT        | Not Null, Between 18–30           |
 
 **Sample SQL:**
-
-```sql
 CREATE DATABASE IF NOT EXISTS studentdb;
 
 CREATE TABLE IF NOT EXISTS students (
