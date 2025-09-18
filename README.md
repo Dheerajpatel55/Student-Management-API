@@ -85,3 +85,24 @@ CREATE TABLE IF NOT EXISTS students (
     email VARCHAR(100) NOT NULL UNIQUE,
     age INT NOT NULL
 );
+## **Future Enhancements**
+
+Add pagination & sorting for GET endpoints
+Implement Spring Security for authentication and authorization:
+Protect endpoints with role-based access (e.g., admin, user)
+Use JWT token-based authentication for stateless security
+Secure sensitive operations like POST, PUT, DELETE
+Build a React frontend to consume API
+Implement search by name or age range
+Add logging and monitoring for production readiness
+
+## Author
+
+```text
+Dheerajpatel55
+GitHub: https://github.com/Dheerajpatel55
+
+git clone https://github.com/Dheerajpatel55/Student-Management-API.git
+cd Student-Management-API
+
+
